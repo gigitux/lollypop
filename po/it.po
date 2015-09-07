@@ -568,7 +568,7 @@ msgstr "_Aggiorna musica"
 
 #: ../data/Appmenu.ui.h:2
 msgid "_Fullscreen"
-msgstr "_Schermointero"
+msgstr "_Schermo intero"
 
 #: ../data/Appmenu.ui.h:3
 msgid "_Preferences"
